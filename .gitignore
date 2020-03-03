@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.ipynb_checkpoints/
+.mypy_cache
+*.egg-info/
+__pycache__/
+checkpoints/
+checkpoints_synthetic/
+data/
