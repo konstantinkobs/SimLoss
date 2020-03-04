@@ -15,7 +15,7 @@ Each folder contains a `README.md` file, which describes how to run that specifi
 
 ## Appendix
 
-To provide more insight into SimLoss, we also provide a version of this paper with an appendix on Arxiv.
+To provide more insight into SimLoss, we also provide a version of this paper with an appendix on arXiv.
 It explores the relation of SimLoss and other loss functions that use a probability matrix.
 
 Link: **Coming Soon**
