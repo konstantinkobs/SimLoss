@@ -13,12 +13,12 @@ This repository contains the code for the paper "SimLoss: Class Similarities in 
 The code for the Age Estimation and Image Classification experiments can be found in the folders `age_estimation` and `image_classification`, respectively.
 Each folder contains a `README.md` file, which describes how to run that specific experiment.
 
-## More Resources
+## Appendix
 
-To provide more insight into SimLoss, we also provide a version of this paper with an appendix on arXiv.
+To get more insight into SimLoss, we also provide a version of this paper with an appendix on arXiv.
 It explores the relation of SimLoss and other loss functions that use a probability matrix.
 
-Link: **Coming Soon**
+Link: [https://arxiv.org/abs/2003.03182](https://arxiv.org/abs/2003.03182)
 
 ## Citation
 
