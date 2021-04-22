@@ -23,5 +23,12 @@ Link: [https://arxiv.org/abs/2003.03182](https://arxiv.org/abs/2003.03182)
 ## Citation
 
 ```
-Coming soon...
+@inproceedings{kobs2020simloss,
+  title={SimLoss: Class Similarities in Cross Entropy},
+  author={Kobs, Konstantin and Steininger, Michael and Zehe, Albin and Lautenschlager, Florian and Hotho, Andreas},
+  booktitle={International Symposium on Methodologies for Intelligent Systems},
+  pages={431--439},
+  year={2020},
+  organization={Springer}
+}
 ```
