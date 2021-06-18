@@ -1,7 +1,7 @@
 # SimLoss: Class Similarities in Cross Entropy
 > Konstantin Kobs, Michael Steininger, Albin Zehe, Florian Lautenschlager, and Andreas Hotho
 
-This repository contains the code for the paper "SimLoss: Class Similarities in Cross Entropy" that was accepted as a short paper at [ISMIS 2020](https://ismis.ist.tugraz.at/2019/09/17/hello-world/):
+This repository contains the code for the paper "SimLoss: Class Similarities in Cross Entropy" that was published as a short paper at [ISMIS 2020](https://ismis.ist.tugraz.at/2019/09/17/hello-world/):
 
 > One common loss function in neural network classificationtasks is Categorical Cross Entropy (CCE), which punishes all misclassifications equally.
 > However, classes often have an inherent structure.
